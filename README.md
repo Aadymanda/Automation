@@ -1,2 +1,3 @@
 # Automation
   Banking
+  pipeline 
