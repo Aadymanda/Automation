@@ -10,3 +10,4 @@ c
 apple 
 jango
 Go lang
+reddis
