@@ -12,3 +12,4 @@ jango
 Go lang
 reddis
 node js
+pycharm
