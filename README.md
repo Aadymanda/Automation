@@ -14,3 +14,4 @@ reddis
 node js
 pycharm
 algorithm 
+data science 
